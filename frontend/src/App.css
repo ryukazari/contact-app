@@ -1,0 +1,12 @@
+.divVerde {
+    background-color: green;
+    color: white;
+    padding: .5rem;
+    border-radius: 5px
+}
+.divAzul {
+    background-color: blue;
+    color: white;
+    padding: .5rem;
+    border-radius: 5px;
+}
